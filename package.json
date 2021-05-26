@@ -9,7 +9,11 @@
   "author": "GAN Integrity",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.17.1",
+    "express-bearer-token": "^2.4.0",
     "fs-extra": "7.0.0",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.1",
+    "uuid": "^8.3.2",
+    "uuid-by-string": "^3.0.2"
   }
 }
